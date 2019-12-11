@@ -28,7 +28,7 @@ dotnet tool install --global dotnet-try --version 1.0.19553.4
 Cet outil va nous permettre d'écrire moins de code en générant certains fichiers pour nous.
 
 ```
-dotnet tool install -g dotnet-aspnet-codegenerator
+dotnet tool install -g dotnet-aspnet-codegenerator --version 3.0
 ```
 
 
